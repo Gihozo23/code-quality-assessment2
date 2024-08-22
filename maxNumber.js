@@ -1,0 +1,1 @@
+const findMaximumNumber = (a, b, c) => Math.max(a, b, c);
