@@ -1,3 +1,1 @@
-function multipleNumbers(x,y){
-    return x * y;
-  }
+const multipleNumbers = (x,y) => x * y;
