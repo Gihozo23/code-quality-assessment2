@@ -1,4 +1,1 @@
-function calculateMatrixSum(matrix) {
-    return matrix.flat()
-        .reduce((sum, currentNumber) => sum + currentNumber);
-}
+const calculateMatrixSum = (matrix) => matrix.flat().reduce((sum, currentNumber) => sum + currentNumber);
