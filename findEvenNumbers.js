@@ -1,3 +1,1 @@
-function findEvenNumbers(numbersArray) {
-    return numbersArray.filter(number => number % 2 === 0);
-}
+const findEvenNumbers = (numbersArray) => numbersArray.filter(number => number % 2 === 0);
