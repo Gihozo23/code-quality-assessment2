@@ -1,0 +1,1 @@
+const multipleNumbers = (x,y) => x * y;
