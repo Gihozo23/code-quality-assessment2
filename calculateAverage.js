@@ -1,0 +1,1 @@
+const calculateAverage = (numbersArray) => numbersArray.reduce((sum, currentElement) => sum + currentElement) / numbersArray.length;
