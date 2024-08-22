@@ -1,0 +1,1 @@
+## This repository contains different refactored functions, I improved mainly their structure and code quality.
